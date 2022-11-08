@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying in Full Stack Developer program.
 - 💝 I’m interested in web development and JavaScript projects.
-- 😀 I feel fun when I built App. 
+- 😀 I built Apps for fun. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
