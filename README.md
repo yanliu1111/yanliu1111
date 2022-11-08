@@ -4,9 +4,8 @@
 ## About Me
 
 - 🔭 I’m currently studying in Full Stack Developer program.
-- 💝  I’m interested in web development and JavaScript projects.
-
-
+- 💝 I’m interested in web development and JavaScript projects.
+- 😀 I feel fun when I built App. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
