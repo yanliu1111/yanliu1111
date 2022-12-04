@@ -1,8 +1,4 @@
-
-
-<h1 align="center">Hi 👋, I'm Yan Liu</h1>
-<h3 align="center">Learning to become a Full Stack Developer</h3>
-
+![Yan Liu banner](https://github.com/yanliu1111/yanliu1111/blob/main/Banner.PNG)
 ## About Me
 
 - 🔭 I’m currently studying in Full Stack Developer program.
