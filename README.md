@@ -5,6 +5,15 @@
 
 ## About Me
 
+
+Hi, I'm Mona. You might recognize me as GitHub's mascot.
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+
 - 🔭 I’m currently studying in Full Stack Developer program.
 - 💝 I’m interested in web development and JavaScript projects.
 - 😀 I built Apps for fun. 
