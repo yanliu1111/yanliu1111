@@ -5,11 +5,11 @@
 - 🌱 I like coding and math, I worked as a data analyst in health sciences before.
 - 💝 I’m supper interested in web development and JavaScript projects now.
 - 😀 I built Apps for fun. 
-
+<img align="right" alt="GIF" src="https://github.com/yanliu1111/yanliu1111/blob/main/coding.gif?raw=true" width="228" height="146" title="Do what you like, and do it best!"> 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/yan-liu-phd-371b8562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yan-liu-phd-371b8562" height="30" width="40" /></a>
-  <img align="right" alt="GIF" src="https://github.com/yanliu1111/yanliu1111/blob/main/coding.gif?raw=true" width="228" height="146" title="Do what you like, and do it best!"> 
+  <a href="https://linkedin.com/in/yan-liu-phd-371b8562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yan-liu-phd-371b8562" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> Languages and Tools: </h3> 
