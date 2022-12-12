@@ -1,11 +1,12 @@
 ![Yan Liu banner](https://github.com/yanliu1111/yanliu1111/blob/main/Banner.PNG)
 ## About Me
-
-- 🔭 I’m currently studying in Full Stack Developer program.
-- 🌱 I like coding and math, I worked as a data analyst in health sciences before.
-- 💝 I’m supper interested in web development and JavaScript projects now.
-- 😀 I built Apps for fun. 
 <img align="right" alt="GIF" src="https://github.com/yanliu1111/yanliu1111/blob/main/coding.gif?raw=true" width="228" height="146" title="Do what you like, and do it best!"> 
+<p align="left">
+- 🔭 I’m currently studying in Full Stack Developer program. <br>
+- 🌱 I like coding and math, I worked as a data analyst in health sciences before.<br>
+- 💝 I’m supper interested in web development and JavaScript projects now.<br>
+- 😀 I built Apps for fun. <br>
+</p>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
