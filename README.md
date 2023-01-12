@@ -33,5 +33,14 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
+---
+
+<details>
+  <summary>:zap: GitHub Activity</summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanliu1111&show_icons=true&locale=en" alt="yanliu1111" /></p>
+  </details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanliu1111" /></p>
+  </details>
