@@ -5,7 +5,7 @@
 - 🔭 I’m currently studying in Full Stack Developer program. <br>
 - 🌱 I like coding and math, I worked as a data analyst in health sciences before.<br>
 - 💝 I’m supper interested in web and mobile development projects.<br>
-- 🌰 I am currently working on, also very enthusiastic at backend CRUD with firebase. <br>
+- 🌰 I currently work on, also enthusiastically at backend CRUD with firebase, cloud database. <br>
 - 😀 I built Apps for fun. <br>
 </p>
 <h3 align="left">Connect with me:</h3>
