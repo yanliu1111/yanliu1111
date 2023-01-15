@@ -38,10 +38,16 @@
 
 <details>
   <summary>:zap: GitHub Activity</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanliu1111&show_icons=true&locale=en" alt="yanliu1111" /></p>
-  </details>
+  <picture>
+<img src="https://github-readme-stats.vercel.app/api?username=yanliu1111&show_icons=true&locale=en" alt="yanliu1111" />
+</picture> 
+</details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanliu1111" /></p>
- </details>
+<summary>:zap: GitHub Stats</summary>
+<picture>
+<img src="https://github-readme-stats.vercel.app/api?username=yanliu1111&show_icons=true" />
+</picture> 
+</details>
+ 
+ 
