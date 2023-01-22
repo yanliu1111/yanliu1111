@@ -43,11 +43,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanliu1111&layout=compact&theme=buefy&hide_border=true" />
 </details>
 
-<details>
-<summary>:zap: GitHub Stats</summary>
-<picture>
-<img src="https://github-readme-stats.vercel.app/api?username=yanliu1111&show_icons=true" />
-</picture> 
-</details>
+![Snake animation](https://github.com/yanliu1111/yanliu1111/blob/output/github-contribution-grid-snake.svg)
  
  
