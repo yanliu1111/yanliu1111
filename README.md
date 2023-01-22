@@ -39,7 +39,7 @@
 | ------------- | ------------- |
 
 <details>
-<summary>:zap: GitHub Activity</summary>
+<summary>:zap: GitHub Cool Snake</summary>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanliu1111&layout=compact&theme=buefy&hide_border=true" />
 </details>
 
