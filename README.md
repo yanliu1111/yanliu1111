@@ -13,7 +13,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/yan-liu-phd-371b8562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yan-liu-phd-371b8562" height="30" width="30" /></a>&nbsp&nbsp&nbsp
   <a href="https://www.yanlovescode.me" title="My Portfolio"><img align="center" src="https://github.com/yanliu1111/yanliu1111/blob/main/YanWebsite.svg" alt="yan-liu-portfolio" height="30" width="30" /></a>&nbsp&nbsp&nbsp
-  <a href="https://www.yanlovescode.me" title="My Blog"><img align="center" src="https://github.com/yanliu1111/yanliu1111/blob/main/yanblog.ico" alt="yan-liu-portfolio" height="30" width="30" /></a>
+  <a href="www.yancodeblog.codes" title="My Blog"><img align="center" src="https://github.com/yanliu1111/yanliu1111/blob/main/yanblog.ico" alt="yan-code-blog" height="30" width="30" /></a>
 </p>
 
 <h3 align="left"> Languages and Tools: </h3> 
