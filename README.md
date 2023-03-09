@@ -50,7 +50,7 @@
     <a href="https://www.figma.com/" title="Figma"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="21px" height="21px"/> </a> 
   <a href="https://git-scm.com/" title="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="21px" height="21px"/> </a>  
 </p>
-
+<br>
 
 | <a href="https://github.com/yanliu1111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yanliu1111&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yan's github stats" /></a> | <a href="https://github.com/yanliu1111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanliu1111&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
