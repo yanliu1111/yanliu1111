@@ -2,13 +2,14 @@
 ## About Me
 <img align="right" alt="GIF" src="https://github.com/yanliu1111/yanliu1111/blob/main/coding.gif?raw=true" width="228" height="146" title="Do what you like, and do it best!"> 
 <p align="left">
-- 🔭 I’m currently studying in Full Stack Developer program. <br>
+- 🔭 I’m currently working in Full Stack Developer program. <br>
 - 🌱 I like coding and math, I worked as a data analyst in health sciences before.<br>
 - 💝 I’m supper interested in web and mobile development projects.<br>
 - 🌰 I am enthusiastic at backend work and cloud database development. <br>
 - 😀 In my free time, I built Apps for fun. <br>
 </p>
-<h3 align="left">Connect with me:</h3>
+
+## Contact Me
 
 <p align="left">
   <a href="https://linkedin.com/in/yan-liu-phd-371b8562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yan-liu-phd-371b8562" height="30" width="30" /></a>&nbsp&nbsp&nbsp
@@ -50,7 +51,7 @@
   <a href="https://git-scm.com/" title="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="21px" height="21px"/> </a>  
 </p>
 
----
+
 | <a href="https://github.com/yanliu1111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yanliu1111&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yan's github stats" /></a> | <a href="https://github.com/yanliu1111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanliu1111&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
