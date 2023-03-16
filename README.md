@@ -1,5 +1,5 @@
 ![Yan Liu banner](https://github.com/yanliu1111/yanliu1111/blob/main/Banner.PNG)
-## About Me
+## 💬 About Me
 <img align="right" alt="GIF" src="https://github.com/yanliu1111/yanliu1111/blob/main/coding.gif?raw=true" width="228" height="146" title="Do what you like, and do it best!"> 
 <p align="left">
 - 🔭 I’m currently working in Full Stack Developer program. <br>
@@ -9,8 +9,7 @@
 - 😀 In my free time, I built Apps for fun. <br>
 </p>
 
-## Contact Me
-
+## 📫 How to reach me <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fyanliu1111"><img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyanliu1111&labelColor=%2337d67a&countColor=%23f47373" /></a>
 <p align="left">
   <a href="https://linkedin.com/in/yan-liu-phd-371b8562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yan-liu-phd-371b8562" height="30" width="30" /></a>&nbsp&nbsp&nbsp
   <a href="https://www.yanlovescode.me" title="My Portfolio"><img align="center" src="https://github.com/yanliu1111/yanliu1111/blob/main/YanWebsite.svg" alt="yan-liu-portfolio" height="30" width="30" /></a>&nbsp&nbsp&nbsp
