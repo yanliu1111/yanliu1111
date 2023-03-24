@@ -56,7 +56,8 @@
 
 <details>
 <summary>:zap: GitHub Cool Snake</summary>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanliu1111&layout=compact&theme=buefy&hide_border=true" />
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="50px">
 </details>
 
 ![Snake animation](https://github.com/yanliu1111/yanliu1111/blob/output/github-contribution-grid-snake.svg)
