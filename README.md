@@ -2,11 +2,11 @@
 ## 💬 About Me
 <img align="right" alt="GIF" src="https://github.com/yanliu1111/yanliu1111/blob/main/coding.gif?raw=true" width="228" height="146" title="Do what you like, and do it best!"> 
 <p align="left">
-- 🔭 I’m currently working in Full Stack Developer program. <br>
+- 🔭 I’m looking for a Full Stack Developer position.<br>
 - 🌱 I like coding and math, I worked as a data analyst in health sciences before.<br>
-- 💝 I’m supper interested in web and mobile development projects.<br>
-- 🌰 I am enthusiastic at backend work and cloud database development. <br>
-- 😀 In my free time, I built Apps for fun. <br>
+- 🚀 I try to contribute open-source projects and challenging my coding skills.<br>
+- 💖 I am enthusiastic at backend work and cloud database development.<br>
+- 😀 In my free time, I built Apps for fun.<br>
 </p>
 
 ## 📫 How to reach me <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fyanliu1111"><img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyanliu1111&labelColor=%2337d67a&countColor=%23f47373" /></a>
