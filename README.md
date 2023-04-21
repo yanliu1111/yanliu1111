@@ -27,6 +27,8 @@
   <a href="https://www.w3schools.com/css/" title="css3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="21px" height="21px"/> </a>  
   <a href="https://reactjs.org/" title="react"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="21px" height="21px"/> </a>
   <a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React Native" width="21px" height="21px"></a>
+  <a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/docker-icon.svg" alt="Docker" width="21px" height="21px"></a>
+  <a href="https://nextjs.org/" title="Next.js"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
   <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="Vite" width="21px" height="21px"></a>
   <a href="https://tailwindcss.com/" title="tailwindcss"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="21px" height="21px"/> </a> 
   <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
