@@ -43,8 +43,7 @@
         <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="Vite" width="30" height="30"></a>
         <a href="https://material-ui.dev/" title="material-ui.svg"><img src="https://github.com/get-icon/geticon/blob/master/icons/material-ui.svg" alt="material-ui.svg" width="30" height="30"></a>
         <a href="https://tailwindcss.com/" title="tailwindcss"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> </a>
-        <a href="https://www.figma.com/" title="figma""> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a>
-        <a href="https://jestjs.io" title="jest"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="30" height="30"/> </a> 
+        <a href="https://www.figma.com/" title="figma""> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a>         
     </td>
     <td>
        <a href="https://www.microsoft.com/en-us/sql-server" title="SQL"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> </a> 
@@ -61,6 +60,7 @@
         <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="30" height="30"></a>
   <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="30" height="30"></a>
         <a href="https://www.docker.com/" title="docker"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a>
+        <a href="https://jestjs.io" title="jest"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="30" height="30"/> </a>
     </td>
     <td>
         <a href="https://developer.android.com" title="android-studio"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/></a>
