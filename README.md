@@ -1,6 +1,6 @@
 ![Yan Liu banner](https://github.com/yanliu1111/yanliu1111/blob/main/Banner.PNG)
 ## 💬 About Me
-<img align="right" alt="GIF" src="https://github.com/yanliu1111/yanliu1111/blob/main/coding.gif?raw=true" width="228" height="146" title="Do what you like, and do it best!"> 
+<img align="right" alt="GIF" src="https://github.com/yanliu1111/yanliu1111/blob/main/code.gif?raw=true" height="180" title="Do what you like, and do it best!"> 
 <p align="left">
 - 🔭 I’m looking for a Full Stack Developer position.<br>
 - 🌱 I like coding and math, I worked as a data analyst in health sciences before.<br>
@@ -18,7 +18,7 @@
 </a>
 </p>
 
-### Languages & Tools 🛠
+### 🛠 Languages & Tools 
 <div>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a>&nbsp&nbsp
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>&nbsp&nbsp
@@ -84,7 +84,7 @@
 | ------------- | ------------- |
 
 <details>
-<summary>:zap: GitHub Cool Snake</summary>
+<summary>:zap: GitHub Cool Snake <img align="center" src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </summary> 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="50px">
   
