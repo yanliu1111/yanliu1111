@@ -1,6 +1,6 @@
 ![Yan Liu banner](https://github.com/yanliu1111/yanliu1111/blob/main/Banner.PNG)
 ## 💬 About Me
-<img align="right" alt="GIF" src="https://github.com/yanliu1111/yanliu1111/blob/main/code.gif?raw=true" height="200" title="Do what you like, and do it best!"> 
+<img align="right" alt="GIF" src="https://github.com/yanliu1111/yanliu1111/blob/main/code.gif?raw=true" height="190" title="Do what you like, and do it best!"> 
 <p align="left">
 - 🔭 I’m looking for a Full Stack Developer position.<br>
 - 🌱 I like coding and math, I worked as a data analyst in health sciences before.<br>
