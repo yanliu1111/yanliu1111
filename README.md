@@ -18,13 +18,8 @@
 </a>
 </p>
 
-### 🛠 Languages & Tools 
-<div>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a>&nbsp&nbsp
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>&nbsp&nbsp
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="33" height="33"/></a>
-</div>
-
+### 🛠 Languages & Tools </br>
+[![TypeScript, JavaScript, Python, PHP](https://skillicons.dev/icons?i=typescript,js,python,php)](https://skillicons.dev)
 <br/>
 
 <table>
@@ -47,7 +42,8 @@
     </td>
     <td>
        <a href="https://www.microsoft.com/en-us/sql-server" title="SQL"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> </a> 
-      <a href="https://www.postgresql.org/" title="postgres"> <img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" alt="postgresql" width="30" height="30"/> </a> 
+      <a href="https://www.postgresql.org/" title="postgres"> <img src="https://github.com/get-icon/geticon/blob/master/icons/postgresql.svg" alt="postgresql" width="30" height="30"/> </a>
+      <a href="https://www.mysql.com/" title="mysql"><img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="mysql" width="30" height="30"></a>
       <a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg" alt="Microsoft Azure" width="30" height="30"></a>
       <a href="https://redis.io/" title="redis"><img src="https://github.com/get-icon/geticon/blob/master/icons/redis.svg" alt="redis" width="30" height="30"></a>
       <a href="https://www.mongodb.com/" title="mongodb"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>
