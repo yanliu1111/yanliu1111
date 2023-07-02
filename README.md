@@ -1,5 +1,6 @@
 ![Yan Liu banner](https://github.com/yanliu1111/yanliu1111/blob/main/Banner.PNG)
 ## 💬 About Me
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
 <img align="right" alt="GIF" src="https://github.com/yanliu1111/yanliu1111/blob/main/code.gif?raw=true" height="190" title="Do what you like, and do it best!"> 
 <p align="left">
 - 🔭 I’m looking for a Full Stack Developer position.<br>
@@ -8,20 +9,23 @@
 - 💖 I am enthusiastic at backend work and cloud database development.<br>
 - 😀 In my free time, I built Apps for fun.<br>
 </p>
+</div>
 
 ## 📫 How to reach me <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fyanliu1111"><img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyanliu1111&labelColor=%2337d67a&countColor=%23f47373" /></a>
 <p align="left">
-  <a href="https://linkedin.com/in/yan-liu-phd-371b8562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yan-liu-phd-371b8562" height="30" width="30" /></a>&nbsp&nbsp&nbsp
-  <a href="https://www.yanlovescode.me" title="My Portfolio"><img align="center" src="https://github.com/yanliu1111/yanliu1111/blob/main/YanWebsite.svg" alt="yan-liu-portfolio" height="30" width="30" /></a>&nbsp&nbsp&nbsp
-  <a href="https://www.yancodeblog.codes" title="My Blog"><img align="center" src="https://github.com/yanliu1111/yanliu1111/blob/main/yanblog.ico" alt="yan-code-blog" height="30" width="30" /></a>&nbsp&nbsp&nbsp
-  <a href="https://youtu.be/spdII8rqkaM" title="My Project Demo"><img align="center" src="https://github.com/burgyl/youtube-icon-link/blob/main/icon_128.png" alt="my-project-demo" height="35" />
+  <a href="https://linkedin.com/in/yan-liu-phd-371b8562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yan-liu-phd-371b8562" height="40" width="40" /></a>&nbsp&nbsp
+  <a href="https://www.yanlovescode.me" title="My Portfolio"><img align="center" src="https://github.com/yanliu1111/yanliu1111/blob/main/YanWebsite.svg" alt="yan-liu-portfolio" height="40" width="40" /></a>&nbsp&nbsp
+  <a href="https://www.yancodeblog.codes" title="My Blog"><img align="center" src="https://github.com/yanliu1111/yanliu1111/blob/main/yanblog.ico" alt="yan-code-blog" height="40" width="40" /></a>&nbsp&nbsp
+  <a href="https://youtu.be/spdII8rqkaM" title="My Project Demo"><img align="center" src="https://github.com/burgyl/youtube-icon-link/blob/main/icon_128.png" alt="my-project-demo" height="45" />
 </a>
 </p>
 
 ### 🛠 Languages & Tools </br>
-[![TypeScript, JavaScript, Python, PHP](https://skillicons.dev/icons?i=typescript,js,python,php)](https://skillicons.dev)
+<a href="https://skillicons.dev" style="display: inline-block;">
+  <img alt="Logo" src="https://skillicons.dev/icons?i=typescript,js,python,php" style="width: 200px;">
+</a>
 <br/>
-
+<br/>
 <table>
   <tr>
     <th>Frontend (Web)</th>
