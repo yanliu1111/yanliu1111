@@ -7,6 +7,7 @@
 - 💖 I appreciate open-source projects and challenge myself to be a contributor.<br>
 - 🚀 I am enthusiastic about backend development and cloud database development.<br>
 - 🐰 During my free time, I enjoy learning and experimenting with new technologies.<br>
+- 🤗 Thank you for following my GitHub and giving my repository stars. Your support and encouragement are greatly appreciated. 💖
 </p>
 </div>
 
