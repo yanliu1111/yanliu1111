@@ -78,7 +78,7 @@
 </table>
 <br>
 <details>
-<summary>:zap: GitHub Status <img align="center" src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </summary> 
+<summary>:zap: GitHub State <img align="center" src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </summary> 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="50px">
   
