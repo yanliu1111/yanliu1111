@@ -76,15 +76,9 @@
     </td>
   </tr>
 </table>
-
-
 <br>
-
-| <a href="https://github.com/yanliu1111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yanliu1111&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yan's github stats" /></a> | <a href="https://github.com/yanliu1111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanliu1111&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 <details>
-<summary>:zap: GitHub Cool Snake <img align="center" src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </summary> 
+<summary>:zap: GitHub Status <img align="center" src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </summary> 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="50px">
   
@@ -92,4 +86,10 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courgette&color=4285F4&size=40&center=true&vCenter=true&width=600&&lines=HELLO+WORLD+:);" alt="Hello"></a>
 </div>
 </details> 
+<br>
+
+| <a href="https://github.com/yanliu1111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yanliu1111&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yan's github stats" /></a> | <a href="https://github.com/yanliu1111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanliu1111&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
  
