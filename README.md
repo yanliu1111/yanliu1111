@@ -8,7 +8,6 @@
 - 🚀 I am enthusiastic about backend development and cloud database development.<br>
 - 🐰 During my free time, I enjoy learning and experimenting with new technologies.<br>
 - 🤗 Thank you for following my GitHub and giving my repository stars. <br>
-  (PS: I would focus on new job in future weeks, come back ASAP, NEVER leave opensource🥰)
 </p>
 </div>
 
