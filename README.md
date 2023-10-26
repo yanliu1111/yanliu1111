@@ -1,8 +1,8 @@
 ![Yan Liu banner](https://github.com/yanliu1111/yanliu1111/blob/main/banner2.png)
 ## 💬 About Me
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
-<img align="right" alt="GIF" src="https://github.com/yanliu1111/yanliu1111/blob/main/code.gif?raw=true" height="190" title="Do what you like, and do it best!"> 
-<p align="left">
+<!-- <img align="right" alt="GIF" src="https://github.com/yanliu1111/yanliu1111/blob/main/code.gif?raw=true" height="190" title="Do what you like, and do it best!"> 
+<p align="left"> -->
 - 🌎 I am FullStack developer in real world.<br>
 - 💖 I appreciate open-source projects and challenge myself to be a contributor.<br>
 - 🚀 I am enthusiastic about backend development and cloud database development.<br>
