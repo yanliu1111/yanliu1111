@@ -1,4 +1,4 @@
-![Yan Liu banner](https://github.com/yanliu1111/yanliu1111/blob/main/Banner3.png)
+![Yan Liu banner](https://github.com/yanliu1111/yanliu1111/blob/main/banner2.png)
 ## 💬 About Me
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
 <img align="right" alt="GIF" src="https://github.com/yanliu1111/yanliu1111/blob/main/code.gif?raw=true" height="190" title="Do what you like, and do it best!"> 
