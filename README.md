@@ -4,9 +4,9 @@
 <!-- <img align="right" alt="GIF" src="https://github.com/yanliu1111/yanliu1111/blob/main/code.gif?raw=true" height="190" title="Do what you like, and do it best!"> 
 <p align="left"> -->
 - 🌎 I am FullStack developer in real world.<br>
-- 💖 I appreciate open-source projects and challenge myself to be a contributor.<br>
+- 💖 I appreciate open-source and challenge myself to be a contributor.<br>
 - 🚀 I am enthusiastic about backend development and cloud database development.<br>
-- 🐰 During my free time, I enjoy learning and experimenting with new technologies.<br>
+- 🐰 Currently, I enjoy learning building AI-powered database systems.<br>
 - 🤗 Thank you for following my GitHub and giving my repository stars. <br>
 </p>
 </div>
