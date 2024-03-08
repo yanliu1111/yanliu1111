@@ -15,7 +15,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/yan-liu-phd-371b8562" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yan-liu-phd-371b8562" height="40" width="40" /></a>&nbsp&nbsp
   <a href="https://www.yanlovescoding.me" target="_blank" title="My Portfolio"><img align="center" src="https://github.com/yanliu1111/yanliu1111/blob/main/YanWebsite.svg" alt="yan-liu-portfolio" height="40" width="40" /></a>&nbsp&nbsp
-  <a href="https://www.yancodeblog.codes" target="_blank" title="My Blog"><img align="center" src="https://github.com/yanliu1111/yanliu1111/blob/main/yanblog.ico" alt="yan-code-blog" height="40" width="40" /></a>&nbsp&nbsp
+  <a href="https://nextjs-ts-my-markdown-blog-h1t7o9r3h-yanliu1111.vercel.app" target="_blank" title="My Blog"><img align="center" src="https://github.com/yanliu1111/yanliu1111/blob/main/yanblog.ico" alt="yan-code-blog" height="40" width="40" /></a>&nbsp&nbsp
   <a href="https://youtu.be/spdII8rqkaM" target="_blank" title="My Project Demo"><img align="center" src="https://github.com/burgyl/youtube-icon-link/blob/main/icon_128.png" alt="my-project-demo" height="45" />
 </a>
 </p>
