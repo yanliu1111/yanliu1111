@@ -95,7 +95,7 @@
 <br>
 <div align="center">
   <img align="center" src="https://count.getloli.com/get/@yanliu111.github.readme" /></a>
-  <p> 🍓🍊🍋🍉 Profile Viewers 🍎🥑🍑🫐 </p>
+  <p style = "font-size: 18px" > 🍓🍊🍋🍉 Profile Viewers 🍎🥑🍑🍇 </p>
 <div>
 
 
