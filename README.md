@@ -91,5 +91,12 @@
 | <a href="https://github.com/yanliu1111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yanliu1111&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yan's github stats" /></a> | <a href="https://github.com/yanliu1111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanliu1111&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<br>
+<br>
+<div align="center">
+  <img align="center" src="https://count.getloli.com/get/@yanliu111.github.readme" /></a>
+  <p> 🍓🍊🍋🍉 Profile Viewers 🍎🥑🍑🫐 </p>
+<div>
+
 
  
