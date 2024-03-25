@@ -88,7 +88,7 @@
 </details> 
 <br>
 
-| <a href="https://github.com/yanliu1111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yanliu1111&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yan's github stats" /></a> | <a href="https://github.com/yanliu1111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanliu1111&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/yanliu1111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yanliu1111&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yan's github stats" /></a> | <a href="https://github.com/yanliu1111/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanliu1111&layout=donut&theme=buefy&hide_border=true&hide=jupyter%20notebook" /></a> |
 | ------------- | ------------- |
 
 <br>
