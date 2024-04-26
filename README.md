@@ -6,7 +6,7 @@
 - 🌎 I am Software Developer and Full-Snack Enigneer🍩.<br>
 - 💖 I appreciate open-source and challenge myself to be a contributor.<br>
 - 🚀 I am enthusiastic about backend development and cloud database development.<br>
-- 🐰 Currently, I enjoy learning building AI-powered database systems.<br>
+- 🐰 I enjoy learning AI tech, and building AI-powered database systems.<br>
 - 🤗 Thank you for following my GitHub and giving my repository stars. <br>
 </p>
 </div>
