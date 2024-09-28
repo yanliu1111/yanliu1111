@@ -8,7 +8,6 @@
 - 🚀 I am enthusiastic about backend development and cloud database development.<br>
 - 🐰 I enjoy learning AI tech, and building AI-powered database systems.<br>
 - 🤗 Thank you for following my GitHub and giving my repository stars. <br>
-</p>
 </div>
 
 ## 📫 How to reach me <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fyanliu1111"><img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyanliu1111&labelColor=%2337d67a&countColor=%23f47373" /></a>
