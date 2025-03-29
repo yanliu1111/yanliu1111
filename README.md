@@ -37,6 +37,7 @@
         <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"></a>
         <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"></a>
         <a href="https://reactjs.org/" target="_blank" title="react"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"></a>
+        <a href="https://https://angular.dev/" target="_blank" title="angular"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="35" height="35"></a>
         <a href="https://nextjs.org/" target="_blank" title="Next.js"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nextjs-icon.svg" alt="Next.js" width="30" height="30"></a>
         <a href="https://vitejs.dev/" target="_blank" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="Vite" width="30" height="30"></a>
         <a href="https://material-ui.dev/" target="_blank" title="material-ui.svg"><img src="https://github.com/get-icon/geticon/blob/master/icons/material-ui.svg" alt="material-ui.svg" width="30" height="30"></a>
