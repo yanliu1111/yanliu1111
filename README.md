@@ -85,6 +85,14 @@
 <div align="center">
     <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Courgette&color=4285F4&size=40&center=true&vCenter=true&width=600&&lines=HELLO+WORLD+:);" alt="Hello"></a>
 </div>
+
+### 🎮 Daily GitHub Breakout
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanliu1111/yanliu1111/main/images/breakout-dark.svg">
+  <img alt="GitHub Breakout" src="https://raw.githubusercontent.com/yanliu1111/yanliu1111/main/images/breakout-light.svg">
+</picture>
+
 </details> 
 <br>
 
