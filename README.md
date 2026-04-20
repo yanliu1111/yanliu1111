@@ -55,7 +55,7 @@
       <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"></a>
       <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30"></a>
       <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="30"></a>
-      <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"></a><br/>
+      <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"></a>
       <a href="https://flask.com" target="_blank"><img align="center" src="https://github.com/get-icon/geticon/blob/master/icons/flask.svg" alt="flask" width="30" ></a>
       <a href="https://yarnpkg.com/" target="_blank" title="Yarn"><img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="30" ></a>
       <a href="https://eslint.org/" target="_blank" title="ESLint"><img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="30" ></a>
