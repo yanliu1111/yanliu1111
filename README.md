@@ -62,17 +62,17 @@
       <a href="#" target="_blank" title="jest"><img align="center" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="30" ></a>
       <a href="#" target="_blank" title="docker"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="jest" width="30" ></a>
     </td>
-    <td>
+    <td align="center" style="white-space: nowrap;">
       <a href="#" target="_blank" title="jest"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" ></a>
       <a href="#" target="_blank" title="docker"><img align="center" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" alt="reactnative" width="30" ></a>
     </td>
-    <td>
-        <a href="https://git-scm.com/" target="_blank" title="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"></a>
-        <a href="https://pandas.pydata.org/" target="_blank" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="30" height="30"></a>
-<a href="https://numpy.org/" target="_blank" title="NumPy"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="30" height="30"></a>
-  <a href="https://www.r-project.org/" target="_blank" title="R"><img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="R" width="30" height="30"></a>
-  <a href="https://www.mathworks.com/" target="_blank" title="Matlab"><img  src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"></a>
-  <a href="https://prettier.io/" target="_blank" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="30" height="30"></a>
+    <td align="center" style="white-space: nowrap;">
+      <a href="#" target="_blank" title="git"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" ></a>
+      <a href="#" target="_blank" title="pandas"><img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="30" ></a>
+      <a href="#" target="_blank" title="numpy"><img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="numpy" width="30" ></a>
+      <a href="#" target="_blank" title="R"><img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="r" width="30" ></a>
+      <a href="#" target="_blank" title="Matlab"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="30" ></a>
+      <a href="#" target="_blank" title="Prettier"><img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="reactnative" alt="Prettier" width="30" ></a>
     </td>
   </tr>
 </table>
